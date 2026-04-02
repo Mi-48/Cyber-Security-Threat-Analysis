@@ -27,7 +27,7 @@ This analysis demonstrates how **data visualization and BI tools** can uncover c
 
 The data comes from kaggle.com (https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024/data). The dataset is synthetically generated for educational, research, and analytical use. It is manually structured to reflect realistic cybersecurity incident reporting. This report uses the data for trend and pattern analysis.
 
-## Skills Demonstrated
+## Key Skills Demonstrated:
 
 - **Data Visualization with Power BI** – Designed interactive dashboards and reports to explore global cybersecurity trends.  
 - **DAX (Data Analysis Expressions)** – Created custom measures for financial losses, user impact, resolution times, and rankings.  
