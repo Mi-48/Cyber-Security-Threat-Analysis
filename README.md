@@ -34,6 +34,5 @@ The data comes from kaggle.com (https://www.kaggle.com/datasets/atharvasoundanka
 - **Trend & Pattern Analysis** – Identified yearly, sector‑wise, and attack‑type variations in cybersecurity incidents.  
 - **Analytical Storytelling** – Translated complex datasets into clear insights for decision‑making.  
 - **Domain Knowledge in Cybersecurity** – Explored attack types, vulnerabilities, defense mechanisms, and industry impacts.  
-- **Business Intelligence Reporting** – Delivered structured, professional reports that highlight actionable insights.  
 
 
