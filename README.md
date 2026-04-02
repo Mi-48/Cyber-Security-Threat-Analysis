@@ -1,4 +1,4 @@
-#Case Study: Global Cybersecurity Threats (2015–2025)
+# Case Study: Global Cybersecurity Threats (2015–2025)
 
 Problem:
 
